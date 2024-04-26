@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 75a988f9c640f314aa498dfaed891e93
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 05_base01
+    100002: 05_base01_end
+    100004: 05_base02
+    100006: 05_base02_end
+    100008: 05_base03
+    100010: 05_base03_end
+    100012: 05_base04
+    100014: 05_base04_end
+    100016: 05_jimen_enkei
+    100018: 05_jimen_enkei_end
+    100020: 05jimen01
+    100022: 05jimen01_end
+    100024: 05jimen02
+    100026: 05jimen02_end
+    100028: 05jimen05
+    100030: 05jimen05_end
+    100032: 05jimen_03
+    100034: 05jimen_03_end
+    100036: 05kage01
+    100038: 05kage01_end
+    100040: 05sora
+    100042: 05sora_end
+    100044: 05sotokabe01
+    100046: 05sotokabe01_end
+    100048: Budokai Tenkaichi
+    100050: Budokai Tenkaichi_skeleton
+    100052: Nw4cRoot
+    100054: //RootNode
+    400000: 05_base01
+    400002: 05_base01_end
+    400004: 05_base02
+    400006: 05_base02_end
+    400008: 05_base03
+    400010: 05_base03_end
+    400012: 05_base04
+    400014: 05_base04_end
+    400016: 05_jimen_enkei
+    400018: 05_jimen_enkei_end
+    400020: 05jimen01
+    400022: 05jimen01_end
+    400024: 05jimen02
+    400026: 05jimen02_end
+    400028: 05jimen05
+    400030: 05jimen05_end
+    400032: 05jimen_03
+    400034: 05jimen_03_end
+    400036: 05kage01
+    400038: 05kage01_end
+    400040: 05sora
+    400042: 05sora_end
+    400044: 05sotokabe01
+    400046: 05sotokabe01_end
+    400048: Budokai Tenkaichi
+    400050: Budokai Tenkaichi_skeleton
+    400052: Nw4cRoot
+    400054: //RootNode
+    2100000: 05_base01_01.png
+    2100002: 05_base01_02.png
+    2100004: 05_jimen_tile04.png
+    2100006: 05_jimen_tile05.png
+    2100008: 05_jimen_tile03.png
+    2100010: 05_sotokabe01.png
+    2100012: 05_base01_03.png
+    2100014: 05_base01_04.png
+    2100016: 05_kage.png
+    2100018: 05_jimen_tile01.png
+    2100020: 05_jimen_tile02.png
+    4300000: Budokai Tenkaichi
+    9500000: //RootNode
+    13700000: Budokai Tenkaichi
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

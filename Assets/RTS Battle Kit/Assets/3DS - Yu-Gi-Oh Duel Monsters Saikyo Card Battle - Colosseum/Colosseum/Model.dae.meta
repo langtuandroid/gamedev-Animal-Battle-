@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 3d8a8e3b51b640643812a33b4183be8c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: vsn_mesh_0_polySurface123
+    100004: vsn_mesh_10_m_sky_sky_1024
+    100006: vsn_mesh_11_polySurface320
+    100008: vsn_mesh_12_polySurface63_1
+    100010: vsn_mesh_13_polySurface373
+    100012: vsn_mesh_14_Bt_kc01_sky02_bt_kc01_pSphere8
+    100014: vsn_mesh_1_polySurface224
+    100016: vsn_mesh_2_polySurface224
+    100018: vsn_mesh_3_polySurface251
+    100020: vsn_mesh_4_polySurface372
+    100022: vsn_mesh_5_polySurface346
+    100024: vsn_mesh_6_polySurface274
+    100026: vsn_mesh_7_polySurface233
+    100028: vsn_mesh_8_polySurface374
+    100030: vsn_mesh_9_polySurface357
+    400000: //RootNode
+    400002: vsn_mesh_0_polySurface123
+    400004: vsn_mesh_10_m_sky_sky_1024
+    400006: vsn_mesh_11_polySurface320
+    400008: vsn_mesh_12_polySurface63_1
+    400010: vsn_mesh_13_polySurface373
+    400012: vsn_mesh_14_Bt_kc01_sky02_bt_kc01_pSphere8
+    400014: vsn_mesh_1_polySurface224
+    400016: vsn_mesh_2_polySurface224
+    400018: vsn_mesh_3_polySurface251
+    400020: vsn_mesh_4_polySurface372
+    400022: vsn_mesh_5_polySurface346
+    400024: vsn_mesh_6_polySurface274
+    400026: vsn_mesh_7_polySurface233
+    400028: vsn_mesh_8_polySurface374
+    400030: vsn_mesh_9_polySurface357
+    2100000: Colosseo01_wall02_mat
+    2100002: Colosseo01_wall01_mat
+    2100004: Colosseo01_pillar01_mat
+    2100006: Colosseo01_kaidan01_mat
+    2100008: Colosseo01_kaidan02_mat
+    2100010: Colosseo01_wall05_mat
+    2100012: Colosseo01_objet01_mat
+    2100014: Colosseo01_field01_mat
+    2100016: Colosseo01_wall03_mat
+    2100018: Colosseo01_wall04_mat
+    2100020: Colosseo01_sky02_mat
+    2100022: Colosseo01_chain01_mat
+    2100024: Colosseo01_saku01_mat
+    2100026: Colosseo01_cloth01_mat
+    2100028: Colosseo01_sky01_mat
+    2300000: vsn_mesh_0_polySurface123
+    2300002: vsn_mesh_10_m_sky_sky_1024
+    2300004: vsn_mesh_11_polySurface320
+    2300006: vsn_mesh_12_polySurface63_1
+    2300008: vsn_mesh_13_polySurface373
+    2300010: vsn_mesh_14_Bt_kc01_sky02_bt_kc01_pSphere8
+    2300012: vsn_mesh_1_polySurface224
+    2300014: vsn_mesh_2_polySurface224
+    2300016: vsn_mesh_3_polySurface251
+    2300018: vsn_mesh_4_polySurface372
+    2300020: vsn_mesh_5_polySurface346
+    2300022: vsn_mesh_6_polySurface274
+    2300024: vsn_mesh_7_polySurface233
+    2300026: vsn_mesh_8_polySurface374
+    2300028: vsn_mesh_9_polySurface357
+    3300000: vsn_mesh_0_polySurface123
+    3300002: vsn_mesh_10_m_sky_sky_1024
+    3300004: vsn_mesh_11_polySurface320
+    3300006: vsn_mesh_12_polySurface63_1
+    3300008: vsn_mesh_13_polySurface373
+    3300010: vsn_mesh_14_Bt_kc01_sky02_bt_kc01_pSphere8
+    3300012: vsn_mesh_1_polySurface224
+    3300014: vsn_mesh_2_polySurface224
+    3300016: vsn_mesh_3_polySurface251
+    3300018: vsn_mesh_4_polySurface372
+    3300020: vsn_mesh_5_polySurface346
+    3300022: vsn_mesh_6_polySurface274
+    3300024: vsn_mesh_7_polySurface233
+    3300026: vsn_mesh_8_polySurface374
+    3300028: vsn_mesh_9_polySurface357
+    4300000: vsn_mesh_0_polySurface123
+    4300002: vsn_mesh_1_polySurface224
+    4300004: vsn_mesh_2_polySurface224
+    4300006: vsn_mesh_3_polySurface251
+    4300008: vsn_mesh_4_polySurface372
+    4300010: vsn_mesh_5_polySurface346
+    4300012: vsn_mesh_6_polySurface274
+    4300014: vsn_mesh_7_polySurface233
+    4300016: vsn_mesh_8_polySurface374
+    4300018: vsn_mesh_9_polySurface357
+    4300020: vsn_mesh_10_m_sky_sky_1024
+    4300022: vsn_mesh_11_polySurface320
+    4300024: vsn_mesh_12_polySurface63_1
+    4300026: vsn_mesh_13_polySurface373
+    4300028: vsn_mesh_14_Bt_kc01_sky02_bt_kc01_pSphere8
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_chain01_mat
+    second: {fileID: 2100000, guid: 13c601e8fe3f6ec4a93de6879e6d911f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_cloth01_mat
+    second: {fileID: 2100000, guid: 11b05581ee6503f47ad0bdeaa9c1bc87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_field01_mat
+    second: {fileID: 2100000, guid: 793d6f41d0d4bd24a850740c5193c80d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_kaidan01_mat
+    second: {fileID: 2100000, guid: f309b24220510a448abacbdc5ec5eb83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_kaidan02_mat
+    second: {fileID: 2100000, guid: a0f7d47ed1b56394d8b13350dbb7ece4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_objet01_mat
+    second: {fileID: 2100000, guid: e242cb8097f4caf4c9a4b0184abf2746, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_pillar01_mat
+    second: {fileID: 2100000, guid: d3a80d4c7d1db1a48b1757393e7ed9da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_saku01_mat
+    second: {fileID: 2100000, guid: 7354fa2f9ca05fe4a93cd7fd44259701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_sky01_mat
+    second: {fileID: 2100000, guid: 44922d92b4bf33647bf96045409ca41e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_sky02_mat
+    second: {fileID: 2100000, guid: 19557d05859778642a9b767b1a8139b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_wall01_mat
+    second: {fileID: 2100000, guid: 6be89500cc4c6654ebc07fe37af77ddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_wall02_mat
+    second: {fileID: 2100000, guid: 4fc03d10b671d7a4892a2d428ef95154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_wall03_mat
+    second: {fileID: 2100000, guid: 3ff8c28558a492d49b6a075d42111cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_wall04_mat
+    second: {fileID: 2100000, guid: 2d46bd3d24c853a4aa9054c2215ddfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Colosseo01_wall05_mat
+    second: {fileID: 2100000, guid: 83ad999272b7d0641bf534a1b9b99335, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
